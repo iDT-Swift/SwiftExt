@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "CF46351C-46AE-4B77-877C-C2D40BB11FC7",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwiftExt.xcodeproj",
+        "identifier" : "609C80972B160C180042D9AA",
+        "name" : "SwiftExtTests"
+      }
+    }
+  ],
+  "version" : 1
+}
